@@ -2,8 +2,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garethbrickman&layout=compact&theme=radical" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=garethbrickman&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garethbrickman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **garethbrickman/garethbrickman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
