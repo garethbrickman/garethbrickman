@@ -1,6 +1,6 @@
 ### Hi there, I'm Brick 👋
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garethbrickman&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garethbrickman&show_icons=true" />
   
 ### Stats by [Anurag](https://github.com/anuraghazra/github-readme-stats)
 
