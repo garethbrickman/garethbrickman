@@ -1,4 +1,4 @@
-### Hi there, I'm Brick 👋
+### Hi there, I'm Gary 👋
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=garethbrickman&show_icons=true" />
   
