@@ -1,1 +1,1 @@
-![GitHub Stats](https://ghstats.dev/api/card?username=garethbrickman&theme=tokyonight)
+![Top Languages](https://ghstats.dev/api/langs?username=garethbrickman&layout=bar)
